@@ -1,0 +1,2 @@
+{:hooks
+ {:macroexpand {try-let/try-let clj-kondo.try-let.try-let/try-let}}}
